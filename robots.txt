@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://jdtoppin.github.io/landing-page/sitemap.xml
