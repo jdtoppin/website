@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Hello! I&#x27;m Josiah.</title>
-    <link href="https://josiahtoppin.com/feed.xml" rel="self" />
-    <link href="https://josiahtoppin.com" />
+    <link href="https://www.josiahtoppin.com/feed.xml" rel="self" />
+    <link href="https://www.josiahtoppin.com" />
     <updated>2025-02-06T15:21:24-07:00</updated>
     <author>
         <name>Josiah Toppin</name>
     </author>
-    <id>https://josiahtoppin.com</id>
+    <id>https://www.josiahtoppin.com</id>
 
     <entry>
         <title>Oh hello, this is a new blog post.</title>
         <author>
             <name>Josiah Toppin</name>
         </author>
-        <link href="https://josiahtoppin.com/blog-posts/oh-hello-this-is-a-new-page/"/>
-        <id>https://josiahtoppin.com/blog-posts/oh-hello-this-is-a-new-page/</id>
+        <link href="https://www.josiahtoppin.com/blog-posts/oh-hello-this-is-a-new-page/"/>
+        <id>https://www.josiahtoppin.com/blog-posts/oh-hello-this-is-a-new-page/</id>
 
         <updated>2025-02-06T12:46:45-07:00</updated>
             <summary>
