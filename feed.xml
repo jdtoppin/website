@@ -1,29 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Hello! I&#x27;m Josiah.</title>
-    <link href="https://jdtoppin.github.io/landing-page/feed.xml" rel="self" />
-    <link href="https://jdtoppin.github.io/landing-page" />
-    <updated>2025-02-06T12:46:45-07:00</updated>
+    <link href="https://jdtoppin.github.io/website/feed.xml" rel="self" />
+    <link href="https://jdtoppin.github.io/website" />
+    <updated>2025-02-06T15:21:24-07:00</updated>
     <author>
         <name>Josiah Toppin</name>
     </author>
-    <id>https://jdtoppin.github.io/landing-page</id>
+    <id>https://jdtoppin.github.io/website</id>
 
     <entry>
-        <title>Oh hello, this is a new page.</title>
+        <title>Oh hello, this is a new blog post.</title>
         <author>
             <name>Josiah Toppin</name>
         </author>
-        <link href="https://jdtoppin.github.io/landing-page/oh-hello-this-is-a-new-page.html"/>
-        <id>https://jdtoppin.github.io/landing-page/oh-hello-this-is-a-new-page.html</id>
+        <link href="https://jdtoppin.github.io/website/blog-posts/oh-hello-this-is-a-new-page/"/>
+        <id>https://jdtoppin.github.io/website/blog-posts/oh-hello-this-is-a-new-page/</id>
 
         <updated>2025-02-06T12:46:45-07:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                    Maybe add something here?
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                 
   <p>
-    
+    Maybe add something here?
   </p>
             ]]>
         </content>
