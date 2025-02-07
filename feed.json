@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Hello! I&#x27;m Josiah.",
     "description": "",
-    "home_page_url": "https://jdtoppin.github.io/website",
-    "feed_url": "https://jdtoppin.github.io/website/feed.json",
+    "home_page_url": "https://josiahtoppin.com",
+    "feed_url": "https://josiahtoppin.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Josiah Toppin"
     },
     "items": [
         {
-            "id": "https://jdtoppin.github.io/website/blog-posts/oh-hello-this-is-a-new-page/",
-            "url": "https://jdtoppin.github.io/website/blog-posts/oh-hello-this-is-a-new-page/",
+            "id": "https://josiahtoppin.com/blog-posts/oh-hello-this-is-a-new-page/",
+            "url": "https://josiahtoppin.com/blog-posts/oh-hello-this-is-a-new-page/",
             "title": "Oh hello, this is a new blog post.",
             "summary": "Maybe add something here?",
             "content_html": "\n  <p>\n    Maybe add something here?\n  </p>",
