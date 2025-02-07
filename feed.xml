@@ -3,7 +3,7 @@
     <title>Hello! I&#x27;m Josiah.</title>
     <link href="https://www.josiahtoppin.com/feed.xml" rel="self" />
     <link href="https://www.josiahtoppin.com" />
-    <updated>2025-02-06T21:15:27-07:00</updated>
+    <updated>2025-02-07T10:58:00-07:00</updated>
     <author>
         <name>Josiah Toppin</name>
     </author>
@@ -14,29 +14,59 @@
         <author>
             <name>Josiah Toppin</name>
         </author>
-        <link href="https://www.josiahtoppin.com/blog-posts/another-test-post/"/>
-        <id>https://www.josiahtoppin.com/blog-posts/another-test-post/</id>
+        <link href="https://www.josiahtoppin.com/blog/another-test-post/"/>
+        <id>https://www.josiahtoppin.com/blog/another-test-post/</id>
+        <media:content url="https://www.josiahtoppin.com/media/posts/6/DSC01760_Original.jpeg" medium="image" />
+            <category term="Photography"/>
 
         <updated>2025-02-06T21:15:27-07:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.josiahtoppin.com/media/posts/6/DSC01760_Original.jpeg" alt="" />
+                    test test test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://www.josiahtoppin.com/media/posts/6/DSC01760_Original.jpeg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://www.josiahtoppin.com/media/posts/6/gallery/DSC00718_Original.jpeg" data-size="1616x1080"><img loading="lazy" src="https://www.josiahtoppin.com/media/posts/6/gallery/DSC00718_Original-thumbnail.webp" alt="test" width="768" height="513"></a></figure>
+<figure class="gallery__item"><a href="https://www.josiahtoppin.com/media/posts/6/gallery/DSC00922_Original.jpeg" data-size="1080x1616"><img loading="lazy" src="https://www.josiahtoppin.com/media/posts/6/gallery/DSC00922_Original-thumbnail.webp" alt="test" width="768" height="1149"></a></figure>
+<figure class="gallery__item"><a href="https://www.josiahtoppin.com/media/posts/6/gallery/DSC01760_Original.jpeg" data-size="6000x4000"><img loading="lazy" src="https://www.josiahtoppin.com/media/posts/6/gallery/DSC01760_Original-thumbnail.webp" alt="" width="768" height="512"></a>
+<figcaption>test</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://www.josiahtoppin.com/media/posts/6/gallery/DSC01955_Original.jpeg" data-size="4000x6000"><img loading="lazy" src="https://www.josiahtoppin.com/media/posts/6/gallery/DSC01955_Original-thumbnail.webp" alt="" width="768" height="1152"></a>
+<figcaption>test</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://www.josiahtoppin.com/media/posts/6/gallery/DSC02295_Original-1.jpeg" data-size="6000x4000"><img loading="lazy" src="https://www.josiahtoppin.com/media/posts/6/gallery/DSC02295_Original-1-thumbnail.webp" alt="" width="768" height="512"></a>
+<figcaption>test</figcaption>
+</figure>
+<figure class="gallery__item"><a href="https://www.josiahtoppin.com/media/posts/6/gallery/DSC02295_Original-2.jpeg" data-size="6000x4000"><img loading="lazy" src="https://www.josiahtoppin.com/media/posts/6/gallery/DSC02295_Original-2-thumbnail.webp" alt="" width="768" height="512"></a></figure>
+<figure class="gallery__item"><a href="https://www.josiahtoppin.com/media/posts/6/gallery/DSC02295_Original.jpeg" data-size="6000x4000"><img loading="lazy" src="https://www.josiahtoppin.com/media/posts/6/gallery/DSC02295_Original-thumbnail.webp" alt="" width="768" height="512"></a></figure>
+</div></div>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Oh hello, this is a new blog post.</title>
         <author>
             <name>Josiah Toppin</name>
         </author>
-        <link href="https://www.josiahtoppin.com/blog-posts/oh-hello-this-is-a-new-page/"/>
-        <id>https://www.josiahtoppin.com/blog-posts/oh-hello-this-is-a-new-page/</id>
+        <link href="https://www.josiahtoppin.com/blog/oh-hello-this-is-a-new-page/"/>
+        <id>https://www.josiahtoppin.com/blog/oh-hello-this-is-a-new-page/</id>
+        <media:content url="https://www.josiahtoppin.com/media/posts/1/DSC01955_Original.jpeg" medium="image" />
+            <category term="test"/>
 
         <updated>2025-02-06T12:46:45-07:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://www.josiahtoppin.com/media/posts/1/DSC01955_Original.jpeg" alt="" />
                     Maybe add something here?
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://www.josiahtoppin.com/media/posts/1/DSC01955_Original.jpeg" class="type:primaryImage" alt="" /></p>
                 
   <p>
     Maybe add something here?
